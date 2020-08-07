@@ -3,4 +3,5 @@
 ### Tested on Iris Dataset
 ### Authors:
  - Devansh Gupta(2019160)
- - Tanmay Rajore(
+ - Tanmay Rajore(2019118)
+ - Divin Dominic(2019163)
