@@ -1,2 +1,6 @@
-# Cyborg-Devansh-Gupta-Tanmay-Rajore-Divin-Dominic
-The dataset printed has the testing dataset used for reference to test the perceptron algorithm.
+# Enterance Project for Cyborg - Robotics Club of IIIT-D
+### Project Title: Perceptron Algorithm from scratch
+### Tested on Iris Dataset
+### Authors:
+ - Devansh Gupta(2019160)
+ - Tanmay Rajore(
